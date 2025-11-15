@@ -1,0 +1,23 @@
+{
+    "name": "bkhouy/ui-suite-base",
+    "description": "Installs the full UI Suite starter stack to quickly set up a component-based design system in Drupal",
+    "keywords": ["recipe", "Drupal recipes", "drupal recipe"],
+    "type": "drupal-recipe",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "brahim.khouy",
+            "homepage": "https://www.drupal.org/u/bkhouy",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {
+        "drupal/ui_patterns": "^2.0.13",
+        "drupal/ui_patterns_settings": "^3.0@alpha",
+        "drupal/ui_examples": "^1.0",
+        "drupal/ui_skins": "^1.1@alpha",
+        "drupal/ui_styles": "^1.19",
+        "drupal/ui_icons": "^1.1@beta",
+        "drupal/field_group": "^4.0"
+    }
+}

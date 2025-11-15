@@ -1,0 +1,31 @@
+name: 'UI Suite Base'
+description: 'Installs the full UI Suite starter stack to quickly set up a component-based design system in Drupal'
+type: 'Design Systems'
+
+install:
+  - ui_patterns
+  - ui_patterns_settings
+  - ui_patterns_blocks
+  - ui_patterns_field_formatters
+  - ui_patterns_layouts
+  - ui_patterns_library
+  - ui_patterns_views
+  - ui_patterns_ui_fieldgroups
+  - ui_styles
+  - ui_styles_block
+  - ui_styles_ckeditor5
+  - ui_styles_ui_patterns
+  - ui_styles_library
+  - ui_styles_page
+  - ui_styles_views
+  - ui_patterns_field
+  - ui_patterns_ui
+  - ui_skins
+  - ui_icons
+  - ui_icons_field
+  - ui_icons_ckeditor5
+  - ui_icons_menu
+  - ui_icons_library
+  - ui_icons_picker
+  - ui_icons_text
+  - ui_examples
