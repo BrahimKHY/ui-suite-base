@@ -12,12 +12,11 @@
         }
     ],
     "require": {
-        "drupal/ui_patterns": "^2.0.13",
-        "drupal/ui_patterns_settings": "^3.0@alpha",
+        "drupal/ui_patterns": "^2.0",
         "drupal/ui_examples": "^1.0",
         "drupal/ui_skins": "^1.1@alpha",
         "drupal/ui_styles": "^1.19",
         "drupal/ui_icons": "^1.1@beta",
-        "drupal/field_group": "^4.0"
+        "drupal/display_builder": "^1.0@alpha"
     }
 }

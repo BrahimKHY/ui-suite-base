@@ -30,12 +30,11 @@ This recipe requires the following contributed modules:
 ```json
 {
   "drupal/ui_patterns": "^2.0",
-  "drupal/ui_patterns_settings": "^3.0@alpha",
   "drupal/ui_examples": "^1.0",
-  "drupal/ui_styles": "^1.19",
   "drupal/ui_skins": "^1.1@alpha",
+  "drupal/ui_styles": "^1.19",
   "drupal/ui_icons": "^1.1@beta",
-  "drupal/field_group": "^4.0"
+  "drupal/display_builder": "^1.0@alpha"
 }
 ```
 
@@ -45,14 +44,11 @@ The recipe installs all key building blocks necessary for a full UI Suite setup:
 
 ### 🧩 UI Patterns Core & Extensions
 * `ui_patterns`
-* `ui_patterns_settings`
 * `ui_patterns_blocks`
 * `ui_patterns_field_formatters`
 * `ui_patterns_layouts`
 * `ui_patterns_library`
 * `ui_patterns_views`
-* `field_group`
-* `ui_patterns_ui_fieldgroups`
 * `ui_patterns_field`
 * `ui_patterns_ui`
 
@@ -60,6 +56,8 @@ The recipe installs all key building blocks necessary for a full UI Suite setup:
 * `ui_styles`
 * `ui_styles_block`
 * `ui_styles_ckeditor5`
+* `ui_styles_entity_status`
+* `ui_styles_layout_builder`
 * `ui_styles_ui_patterns`
 * `ui_styles_library`
 * `ui_styles_page`
@@ -74,9 +72,20 @@ The recipe installs all key building blocks necessary for a full UI Suite setup:
 * `ui_icons_library`
 * `ui_icons_picker`
 * `ui_icons_text`
+* `ui_icons_patterns`
+* `ui_icons_media`
+* `ui_icons_font`
 
 ### 📚 UI Examples
 * `ui_examples`
+* `ui_examples_defaults`
+
+### Display builder
+* `display_builder`
+* `display_builder_entity_view`
+* `display_builder_page_layout`
+* `display_builder_views`
+* `display_builder_ui`
 
 ## 📘 What This Recipe Provides
 

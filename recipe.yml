@@ -4,16 +4,16 @@ type: 'Design Systems'
 
 install:
   - ui_patterns
-  - ui_patterns_settings
   - ui_patterns_blocks
   - ui_patterns_field_formatters
   - ui_patterns_layouts
   - ui_patterns_library
   - ui_patterns_views
-  - ui_patterns_ui_fieldgroups
   - ui_styles
   - ui_styles_block
   - ui_styles_ckeditor5
+  - ui_styles_entity_status
+  - ui_styles_layout_builder
   - ui_styles_ui_patterns
   - ui_styles_library
   - ui_styles_page
@@ -28,4 +28,13 @@ install:
   - ui_icons_library
   - ui_icons_picker
   - ui_icons_text
+  - ui_icons_patterns
+  - ui_icons_media
+  - ui_icons_font
   - ui_examples
+  - ui_examples_defaults
+  - display_builder
+  - display_builder_entity_view
+  - display_builder_page_layout
+  - display_builder_views
+  - display_builder_ui
